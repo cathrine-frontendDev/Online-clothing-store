@@ -6,7 +6,8 @@ body {
 }
 
 .hero {
-  background-color: rgb(239, 224, 226);
+  background-color: rgb(240, 208, 212) ;
+  text-align: center ;
   padding: 20px 5px 20px 50px;
   margin: 0 auto;
 }
@@ -64,4 +65,24 @@ body {
   margin: 20px;
   height: 36px;
   width: 105px;
+}
+
+.featured-products {
+  background-color:rgb(240, 208, 212)  ;
+  text-align: center;
+  margin: 20px 10px 0 10px;
+}
+
+.featured-products h3 {
+  font-size: 30px;
+ 
+}
+
+.featured-products p {
+  color: rgb(58, 58, 58);
+}
+
+.images-products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
