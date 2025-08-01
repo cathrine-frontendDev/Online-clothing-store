@@ -86,3 +86,16 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.new-arrivals {
+  text-align: center;
+}
+.new-arrivals h4 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.images-new-arrivals {
+  display: grid;
+  grid-template-columns: repeat(2,60px 1fr);
+}
