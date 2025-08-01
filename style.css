@@ -108,5 +108,18 @@ body {
 }
 
 .specials {
-  background: rgb(249, 169, 182);
+  background-color: rgb(211, 160, 160);
+  padding: 20px 5px 20px 50px;
+  text-align: center;
+  
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.specials h5 {
+  font-size: 30px;
+  line-height: 3626;
 }
