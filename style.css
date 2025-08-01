@@ -100,3 +100,13 @@ body {
   grid-template-columns: repeat(4, 1fr);
   gap: 15px;
 }
+
+.new-arrivals p {
+  color: rgb(58, 58, 58);
+  width: 155px;
+  margin-left: 55px;
+}
+
+.specials {
+  background: rgb(249, 169, 182);
+}
