@@ -1,5 +1,5 @@
 body {
-  background-color:rgb(244, 239, 239);
+  background-color: white;
   font-family:"Roboto",serif;
   margin: 0px 100px 0px 100px;
  
@@ -97,5 +97,6 @@ body {
 
 .images-new-arrivals {
   display: grid;
-  grid-template-columns: repeat(2,60px 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
 }
