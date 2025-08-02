@@ -108,7 +108,7 @@ body {
 }
 
 .specials {
-  background-color: rgb(211, 160, 160);
+  background-color: rgb(211, 158, 158);
   padding: 20px 5px 20px 50px;
   text-align: center;
   
@@ -121,5 +121,25 @@ body {
 
 .specials h5 {
   font-size: 30px;
-  line-height: 3626;
+  line-height: 36px;
+  margin-bottom: 20px;
 }
+
+.discount-description {
+ background-color: white;
+ border: 2px solid black;
+ width: 800px;
+ height: 350px;
+ line-height: 20px;
+ margin-top: 40px;
+}
+.specials button {
+  background-color: rgb(211, 160, 160);
+  border: 2px solid black;
+  margin: 20px;
+  height: 36px;
+  width: 105px;
+}
+
+
+
